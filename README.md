@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 About Me
+I'm a passionate full-stack developer specializing in React, Laravel, and UI/UX design. I enjoy building efficient and user-friendly web apps.
+## 🛠️ Tech Stack
+- 🌐 Frontend: React, Tailwind CSS, HTML, CSS, JavaScript
+- 🖥️ Backend: PHP, Laravel, Node.js
+- 🗄️ Database: MySQL, MongoDB
+- 🛠️ Tools: Git, Figma, VSCode, Postman
+## 📫 Contact Me
+- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aymanguesmi/)
+- Portfolio: [yourportfolio.com](https://ayman-guesmi.vercel.app)
 
-<!--
-**Ayman-Gu/Ayman-Gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
