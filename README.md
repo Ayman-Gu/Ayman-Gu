@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman Guesmi</h1>
-<h3 align="center">Full-Stack Developer | React & Laravel Expert | UI/UX Designer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:aymanguesmi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-aymanguesmi.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
