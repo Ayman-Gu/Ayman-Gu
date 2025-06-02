@@ -1,7 +1,6 @@
-<h1 align="center"><h1 align="center">
-  Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">
+  Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ayman Guesmi
 </h1>
-, I'm Ayman Guesmi</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
@@ -57,6 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayman-Gu&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
+![snake gif](https://github.com/Ayman-Gu/Ayman-Gu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
