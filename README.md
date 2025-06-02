@@ -56,7 +56,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayman-Gu&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
-![snake gif](https://github.com/Ayman-Gu/Ayman-Gu/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Ayman-Gu/Ayman-Gu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
