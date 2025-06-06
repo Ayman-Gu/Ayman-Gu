@@ -51,6 +51,7 @@
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,6 +60,8 @@
 <p align="center">
   <img src="https://github.com/Ayman-Gu/Ayman-Gu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+-->
+
 
 ---
 
