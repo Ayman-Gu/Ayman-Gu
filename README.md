@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Hey,%20I,m%20Ayman%20Guesmi&fontAlign=50&fontColor=ffffff&textBg=false"/>]
+[<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Hey,%20I'm%20Ayman%20Guesmi&fontAlign=50&fontColor=ffffff&textBg=false"/>]
 ### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
 
 <p>
@@ -27,15 +27,17 @@ const ayman = {
     role: "Full-Stack Developer",
     passion: ["Clean Code", "Modern UI/UX", "Scalable Architecture"],
     currentFocus: "Building innovative web applications",
-    funFact: ![B3loukKidGIF](https://github.com/user-attachments/assets/6eb36dd3-95b5-456a-864b-195cb8a4e6be),
-    lifePhilosophy: "Always learning, always improving"
+    funFact: "See below 👇",
 };
 ```
 
 <div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad."
-
+  <img 
+    src="https://github.com/user-attachments/assets/2ec77186-4637-466e-a042-bdb6828ab3eb"
+    width="220"
+    alt="Fun Fact GIF"
+  />
+  <p><i>When the code finally works 😌</i></p>
 </div>
 
 ---
@@ -87,35 +89,20 @@ const ayman = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayman-Gu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-Gu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Gu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayman-Gu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github.com/Ayman-Gu/Ayman-Gu/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
