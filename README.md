@@ -1,7 +1,6 @@
-![MoroccoMarGIF (2)](https://github.com/user-attachments/assets/c3e1d29b-0cb4-4b22-b37d-1a6980ada107)<div align="center">
+<div align="center">
 
-# 👋 Hey, I'm Ayman Guesmi
-
+[<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Hey,%20I,m%20Ayman%20Guesmi&fontAlign=50&fontColor=ffffff&textBg=false"/>]
 ### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
 
 <p>
@@ -16,8 +15,6 @@
   </a>
 </p>
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
-](https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Input%20text&fontAlign=50&fontColor=ffffff&textBg=false)
 </div>
 
 ---
@@ -30,8 +27,7 @@ const ayman = {
     role: "Full-Stack Developer",
     passion: ["Clean Code", "Modern UI/UX", "Scalable Architecture"],
     currentFocus: "Building innovative web applications",
-    funFact: "![B3loukKidGIF](https://github.com/user-attachments/assets/6eb36dd3-95b5-456a-864b-195cb8a4e6be)
-",
+    funFact: ![B3loukKidGIF](https://github.com/user-attachments/assets/6eb36dd3-95b5-456a-864b-195cb8a4e6be),
     lifePhilosophy: "Always learning, always improving"
 };
 ```
