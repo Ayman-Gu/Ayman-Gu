@@ -1,8 +1,8 @@
-<div align="center">
+![MoroccoMarGIF (2)](https://github.com/user-attachments/assets/c3e1d29b-0cb4-4b22-b37d-1a6980ada107)<div align="center">
 
 # 👋 Hey, I'm Ayman Guesmi
 
-### 🚀 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
 
 <p>
   <a href="mailto:aymanguesmi.dev@gmail.com">
@@ -16,22 +16,23 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
-
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+](https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Input%20text&fontAlign=50&fontColor=ffffff&textBg=false)
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```javascript
 const ayman = {
-    location: "Casablanca, Morocco 🇲🇦",
+    location: "Casablanca, Morocco",
     role: "Full-Stack Developer",
     passion: ["Clean Code", "Modern UI/UX", "Scalable Architecture"],
     currentFocus: "Building innovative web applications",
-    funFact: "I turn coffee ☕ into code 💻",
-    lifePhilosophy: "Always learning, always improving 📈"
+    funFact: "![B3loukKidGIF](https://github.com/user-attachments/assets/6eb36dd3-95b5-456a-864b-195cb8a4e6be)
+",
+    lifePhilosophy: "Always learning, always improving"
 };
 ```
 
@@ -115,14 +116,14 @@ const ayman = {
 
 ---
 
-## 🔥 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -130,15 +131,6 @@ const ayman = {
 
 </div>
 
----
-
-## 📈 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ayman-Gu&style=for-the-badge&color=blueviolet)
-  
-</div>
 
 ---
 
