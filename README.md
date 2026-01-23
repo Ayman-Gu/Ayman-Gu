@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF6500&text=Hey,%20I'm%20Ayman%20Guesmi&fontAlign=50&fontColor=ffffff&textBg=false&stroke=000000&strokeWidth=1"/>
-### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+### Full-Stack Developer | UI/UX Enthusiast | Graphic Designer
 
 <p>
   <a href="mailto:aymanguesmi.dev@gmail.com">
